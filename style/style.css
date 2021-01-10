@@ -582,6 +582,7 @@ section {
         section:nth-of-type(3) #gallery .mix .card {
           height: 240px;
           max-width: 100%;
+          margin: 10px;
           width: calc(50vw - 8px);
           cursor: pointer;
           transition: opacity .5s; }
@@ -850,7 +851,8 @@ footer {
     section:nth-of-type(2) .skills-wrapper > .flex:first-child {
       padding: 0 50px 0 50px; }
     section:nth-of-type(2) .skills-wrapper .me {
-      height: 250px; }
+      height: 250px;
+      margin-top: 5%; }
     section:nth-of-type(2) .bar {
       height: 28px;
       margin: 0 0 15px 0;
@@ -870,7 +872,7 @@ footer {
     section:nth-of-type(3) #gallery .mix .card {
       height: 300px; }
     section:nth-of-type(4) {
-      padding: 130px 0 180px 0; }
+      padding: 19px 0 100px 0; }
       section:nth-of-type(4) .label {
         line-height: 22pt;
         font-size: 16pt; }
